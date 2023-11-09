@@ -12,7 +12,7 @@ SoulPacker is a file renaming utility program developed by Rare Thug Industries.
 
 ## Installation
 
-You can download the latest version of SoulPacker from the [Releases](https://github.com/rare-thug/soulpacker/releases) page on GitHub. Choose the binary file suitable for your operating system.
+You can download the latest version of SoulPacker from the [Releases](https://github.com/rarethug187/soulpacker/releases/tag/soulpacker) page on GitHub. Choose the binary file suitable for your operating system.
 
 ## Usage
 
