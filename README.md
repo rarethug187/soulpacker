@@ -1,6 +1,6 @@
 # SoulPacker
 
-SoulPacker is a file renaming utility program developed by rare thug industries. It provides an easy-to-use interface for renaming multiple files in a selected folder with a specified file name and extension.
+SoulPacker is a file renaming utility program developed by Rare Thug Industries. It provides an easy-to-use interface for renaming multiple files in a selected folder with a specified file name and extension.
 
 ## Features
 
